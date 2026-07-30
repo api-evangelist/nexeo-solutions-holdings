@@ -5,9 +5,20 @@ description: >-
   being acquired by Univar Solutions in 2019. This index tracks any developer
   resources or APIs associated with the legacy Nexeo Solutions brand.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nexeo-solutions-holdings.png
 tags:
   - Chemicals
   - Plastics
