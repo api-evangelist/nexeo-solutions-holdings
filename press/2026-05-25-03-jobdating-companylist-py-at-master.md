@@ -1,7 +1,9 @@
 ---
 title: jobdating/companylist.py at master
 url: https://github.com/imlocle/jobdating/blob/master/companylist.py
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nexeo Solutions Holdings" press release artificial intelligence'
 position: 3
 source: serpapi-google

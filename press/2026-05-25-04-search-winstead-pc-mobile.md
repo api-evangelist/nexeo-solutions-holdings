@@ -1,7 +1,9 @@
 ---
 title: Search - Winstead PC - Mobile
 url: https://www.winstead.com/Search?search=*
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nexeo Solutions Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google

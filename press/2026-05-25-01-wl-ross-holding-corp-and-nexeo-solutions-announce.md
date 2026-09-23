@@ -1,7 +1,9 @@
 ---
 title: WL Ross Holding Corp. and Nexeo Solutions Announce ...
 url: https://www.prnewswire.com/news-releases/wl-ross-holding-corp-and-nexeo-solutions-announce-closing-of-business-combination-300282349.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nexeo Solutions Holdings" press release artificial intelligence'
 position: 1
 source: serpapi-google
